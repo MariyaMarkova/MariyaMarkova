@@ -1,7 +1,9 @@
-- 👋 Hi, I’m MariyaMarkova
-- 👀 I’m interested in Python language and reading books
-- 🌱 I’m currently learning Python 
-- 📫 How to reach me 
+Hello, My name is Mariya Markova
+ 
+I have interest in Python language 
+I am begginer of backend 
+ 
+How to reach me 
 
 Telegram @yesornopossible
 
