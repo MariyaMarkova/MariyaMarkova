@@ -1,4 +1,4 @@
-Hello, My name is Mariya Markova
+Hello, My name is Mariya Markova.
 I have interest in Python language 
  
  
